@@ -8,4 +8,4 @@ Feel free to use the design for your own projects. This interface is meant to be
 
 There is a User eXperience manual in this repository, explaining how to make this interface ready to both new visitors who never had contact with the Kiosk, and 'veterans'.
 
-DESIGNED FOR 1366x768 or less (so it can be used with old disposible screens)
+DESIGNED FOR 1366x768 or less (so it can be used with old disposable screens)
